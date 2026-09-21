@@ -8,3 +8,8 @@ BRANCH WORKFLOW
 2. Create a feature branch.
 3. Commit focused changes.
 4. Open a Pull Request.
+REVIEW GUIDELINES
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
