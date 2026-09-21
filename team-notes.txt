@@ -13,3 +13,4 @@ REVIEW GUIDELINES
 - Check the scope.
 - Confirm CI passes.
 - Request changes when necessary.
+- Keep unrelated changes out of the Pull Request.
